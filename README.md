@@ -1,3 +1,5 @@
+![Captura de tela 2025-01-24 212430](https://github.com/user-attachments/assets/ef230a5b-827b-464a-b1c2-d5e3f2de4dd0)
+
 # Máquina de Vendas
 
 ## Descrição
