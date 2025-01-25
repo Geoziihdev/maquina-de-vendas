@@ -54,3 +54,6 @@ Saldo: R$10,00
 Saída:
 Compra realizada com sucesso!
 Troco: R$2,00
+
+Autor 👤
+Este projeto foi desenvolvido por Geovana de Jesus Santos.
